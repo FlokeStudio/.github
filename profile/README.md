@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:c8a96e,100:1a1a1a&height=160&section=header&text=FLOKE&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Software%20that%20lives%20on%20your%20machine.&descSize=14&descAlignY=65&descColor=ffffff&animation=fadeIn&fontFamily=JetBrains%20Mono" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:c8a96e,100:1a1a1a&height=160&section=header&text=FLOKE&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Software%20that%20lives%20on%20your%20machine.&descSize=14&descAlignY=65&descColor=ffffff&animation=fadeIn&fontFamily=Space%20Mono" width="100%"/>
 <br/>
 
 <a href="https://flokestudio.github.io/Floke/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2800&pause=900&color=C8A96E&center=true&vCenter=true&repeat=true&width=520&lines=Offline-first.+No+cloud.+No+compromise.;Your+data+stays+on+your+machine.;Intelligence+that+never+leaves+your+device.;Built+by+krwg+%C2%B7+Est.+2026" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=2800&pause=900&color=C8A96E&center=true&vCenter=true&repeat=true&width=520&lines=Offline-first.+No+cloud.+No+compromise.;Your+data+stays+on+your+machine.;Intelligence+that+never+leaves+your+device.;Built+by+krwg+%C2%B7+Est.+2026" alt="typing"/>
 </a>
+
 <br/><br/>
 
 <a href="https://flokestudio.github.io/Floke/">
@@ -17,16 +18,17 @@
 <a href="https://github.com/FlokeStudio">
   <img src="https://img.shields.io/badge/GitHub-FlokeStudio-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=111111" alt="GitHub"/>
 </a>
+
 <br/><br/>
 
 <div align="center">
 
 <!-- Row 1: Meta -->
 <img src="https://img.shields.io/github/stars/FlokeStudio?style=flat-square&color=c8a96e&labelColor=111111&logo=github&logoColor=white" alt="stars"/>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=111111" alt="windows"/>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white&labelColor=111111" alt="windows"/>
 <img src="https://img.shields.io/badge/Open%20Source-4a7c59?style=flat-square&logo=opensourceinitiative&logoColor=white&labelColor=111111" alt="open source"/>
-<img src="https://img.shields.io/badge/Offline--First-c8a96e?style=flat-square&logo=wifi&logoColor=white&labelColor=111111" alt="offline-first"/>
-<img src="https://img.shields.io/badge/P2P-2CA5E0?style=flat-square&logo=webtorrent&logoColor=white&labelColor=111111" alt="p2p"/>
+<img src="https://img.shields.io/badge/Offline--First-c8a96e?style=flat-square&logo=protonvpn&logoColor=white&labelColor=111111" alt="offline-first"/>
+<img src="https://img.shields.io/badge/P2P-2CA5E0?style=flat-square&logo=libp2p&logoColor=white&labelColor=111111" alt="p2p"/>
 
 <br/>
 
@@ -34,7 +36,7 @@
 <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white&labelColor=111111" alt="rust"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=111111" alt="python"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=111111" alt="typescript"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=111111" alt="javascript"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=111111" alt="javascript"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white&labelColor=111111" alt="sql"/>
 
 <br/>
@@ -43,8 +45,8 @@
 <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white&labelColor=111111" alt="tauri"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white&labelColor=111111" alt="sqlite"/>
 <img src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white&labelColor=111111" alt="onnx"/>
-<img src="https://img.shields.io/badge/Ollama-ffffff?style=flat-square&logo=ollama&logoColor=black&labelColor=111111" alt="ollama"/>
-<img src="https://img.shields.io/badge/RAG-c8a96e?style=flat-square&logo=pinecone&logoColor=white&labelColor=111111" alt="rag"/>
+<img src="https://img.shields.io/badge/Ollama-FF6F00?style=flat-square&logo=ollama&logoColor=white&labelColor=111111" alt="ollama"/>
+<img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square&logo=vectorlogozone&logoColor=white&labelColor=111111" alt="rag"/>
 
 </div>
 
