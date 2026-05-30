@@ -1,5 +1,5 @@
 <div align="center">
-<!-- HEADER -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:c8a96e,100:1a1a1a&height=160&section=header&text=FLOKE&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Software%20that%20lives%20on%20your%20machine.&descSize=14&descAlignY=65&descColor=ffffff&animation=fadeIn&fontFamily=JetBrains%20Mono" width="100%"/>
 <br/>
 
@@ -31,7 +31,7 @@
 <table>
 <tr>
 <td width="50%">
-🌱 Cultiva
+Cultiva
 
     Make your own growth rhythm
 
@@ -39,12 +39,12 @@ Offline-first gamified habit tracker. Grow habits visually: seed → tree → le
 Plugins, themes, ambient backgrounds, Discord Rich Presence.
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=111" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Live-4a7c59?style=flat-square&labelColor=111" alt="Live"/>
-  <img src="https://img.shields.io/github/v/release/FlokeStudio/Cultiva?style=flat-square&color=4a7c59&labelColor=111&label=latest" alt="Version"/>
+  <img src="https://img.shields.io/badge/0.4.0%20Coconut-4a7c59?style=flat-square&labelColor=111" alt="Live"/>
+  <img src="https://img.shields.io/github/stars/FlokeStudio/Cultiva?style=flat-square&color=c8a96e&labelColor=111" alt="Stars"/>
 </p>
 </td>
 <td width="50%">
-📡 BLIP
+BLIP
 
     No cloud. No account. Just peers.
 
@@ -52,14 +52,14 @@ P2P messenger for LAN & VPN. Text, voice, video, screen share. No servers, no in
 Identify by BLIP ID 1–64. Pixel brutalism × liquid glass.
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white&labelColor=111" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Live-4a7c59?style=flat-square&labelColor=111" alt="Live"/>
+  <img src="https://img.shields.io/badge/1.1.0%20Beacon-4a7c59?style=flat-square&labelColor=111" alt="Live"/>
   <img src="https://img.shields.io/github/stars/FlokeStudio/BLIP?style=flat-square&color=c8a96e&labelColor=111" alt="Stars"/>
 </p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-🎵 Senza
+Senza
 
     Your library. Your files. Nothing else.
 
@@ -72,7 +72,7 @@ Import, fix tags with AI diff, Flow wave, Music Vault — without streaming or a
 </p>
 </td>
 <td width="50%">
-🔥 Flint
+Flint
 
     Think here. Stay here.
 
@@ -143,8 +143,8 @@ Proposes file changes and fetches; you approve every step. No cloud. No subscrip
 
 | Engine | Role | Status |
 |:---|:---|:---:|
-| 🧠 **[Glyph-MI](https://github.com/FlokeStudio/Glyph-MI)** | Metadata Intelligence — powers Senza today, all Floke apps next | <img src="https://img.shields.io/badge/2.1--O-4a7c59?style=flat-square&labelColor=111" alt="2.1-O"/> |
-| ⚡ **Mnemo** | Local engine for Flint — Code / Writer / General agent modes | <img src="https://img.shields.io/badge/1.2--O%20%C2%B7%20Q3%202026-c8a96e?style=flat-square&labelColor=111" alt="1.2-O · Q3 2026"/> |
+| **[Glyph-MI](https://github.com/FlokeStudio/Glyph-MI)** | Metadata Intelligence — powers Senza today, all Floke apps next | <img src="https://img.shields.io/badge/2.1--O-4a7c59?style=flat-square&labelColor=111" alt="2.1-O"/> |
+| **Mnemo** | Local engine for Flint — Code / Writer / General agent modes | <img src="https://img.shields.io/badge/1.2--O%20%C2%B7%20Q3%202026-c8a96e?style=flat-square&labelColor=111" alt="1.2-O · Q3 2026"/> |
 
 <br/>
 
@@ -176,12 +176,12 @@ Proposes file changes and fetches; you approve every step. No cloud. No subscrip
 
 | Product | Version | Codename | Status |
 |:---|:---:|:---:|:---:|
-| 🌱 Cultiva | `0.4.1` | Coconut | <img src="https://img.shields.io/badge/-live-4a7c59?style=flat-square&labelColor=111" alt="live"/> |
-| 📡 BLIP | latest | — | <img src="https://img.shields.io/badge/-live-4a7c59?style=flat-square&labelColor=111" alt="live"/> |
-| 🎵 Senza | `1.0.0` | Vivo | <img src="https://img.shields.io/badge/-live-4a7c59?style=flat-square&labelColor=111" alt="live"/> |
-| 🧠 Glyph | `2.1-O` | — | <img src="https://img.shields.io/badge/-live-4a7c59?style=flat-square&labelColor=111" alt="live"/> |
-| 🔥 Flint | `0.6` | — | <img src="https://img.shields.io/badge/-Q3%202026-c8a96e?style=flat-square&labelColor=111" alt="soon"/> |
-| ⚡ Mnemo | `1.2-O` | — | <img src="https://img.shields.io/badge/-Q3%202026-c8a96e?style=flat-square&labelColor=111" alt="soon"/> |
+| Cultiva | `0.4.1` | Coconut | <img src="https://img.shields.io/badge/-live-4a7c59?style=flat-square&labelColor=111" alt="live"/> |
+| BLIP | `1.1.1` | Beacon | <img src="https://img.shields.io/badge/-live-4a7c59?style=flat-square&labelColor=111" alt="live"/> |
+| Senza | `1.0.0` | Vivo | <img src="https://img.shields.io/badge/-live-4a7c59?style=flat-square&labelColor=111" alt="live"/> |
+| Glyph | `2.1-O` | — | <img src="https://img.shields.io/badge/-live-4a7c59?style=flat-square&labelColor=111" alt="live"/> |
+| Flint | `0.6` | — | <img src="https://img.shields.io/badge/-Q3%202026-c8a96e?style=flat-square&labelColor=111" alt="soon"/> |
+| Mnemo | `1.2-O` | — | <img src="https://img.shields.io/badge/-Q3%202026-c8a96e?style=flat-square&labelColor=111" alt="soon"/> |
 
 <br/>
 
@@ -196,13 +196,13 @@ Proposes file changes and fetches; you approve every step. No cloud. No subscrip
 
 ```
 FlokeStudio/
-├── 🌱 Cultiva          — habit tracker
-├── 📡 BLIP             — P2P messenger
-├── 🎵 Senza            — music player + Glyph
-├── 🔥 Flint            — local agent (Q3 2026)
-├── 🧠 Glyph-MI         — MI engine (all products)
-├── 🔌 CultivaPlugins   — community plugin registry
-└── 🌐 Floke            — landing page & website
+├── Cultiva          — habit tracker
+├── BLIP             — P2P messenger
+├── Senza            — music player + Glyph
+├── Flint            — local agent (Q3 2026)
+├── Glyph-MI         — MI engine (all products)
+├── CultivaPlugins   — community plugin registry
+└── Floke            — landing page & website
 ```
 
 </div>
